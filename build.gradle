@@ -26,8 +26,10 @@ tasks.named('test') {
 
 sonarqube {
 	properties {
-		property "sonar.projectKey", "walgomwizeline_JunitDemo"
-		property "sonar.organization", "walgomwizeline"
+		property "sonar.projectKey", "CarlosGuzman02_demo"
+		property "sonar.organization", "carlosguzman02"
 		property "sonar.host.url", "https://sonarcloud.io"
 	}
 }
+
+
